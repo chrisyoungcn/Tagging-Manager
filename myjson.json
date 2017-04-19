@@ -1,0 +1,433 @@
+{
+	"tags": [
+		{
+			"CommandeButtonNumber":"1",
+			"tagid": "exo",
+			"tagName": "EXO",
+			"font": "Arial",
+			"fontsize": "10px"
+		},
+		{
+			"CommandeButtonNumber":"2",
+			"tagid": "fly",
+			"tagName": "FLY",
+			"font": "Arial",
+			"fontsize": "10px"
+		},
+		{
+			"CommandeButtonNumber":"3",
+			"tagid": "bike",
+			"tagName": "BIKE",
+			"font": "Arial",
+			"fontsize": "10px"
+		},
+		{
+			"CommandeButtonNumber":"4",
+			"tagid": "card",
+			"tagName": "CARD",
+			"font": "Arial",
+			"fontsize": "10px"
+		},
+		{
+			"CommandeButtonNumber":"5",
+			"tagid": "pop",
+			"tagName": "POPCORN",
+			"font": "Arial",
+			"fontsize": "7px"
+		},
+		{
+			"CommandeButtonNumber":"6",
+			"tagid": "snd",
+			"tagName": "SOUND",
+			"font": "Arial",
+			"fontsize": "10px"
+		},
+		{
+			"CommandeButtonNumber":"7",
+			"tagid": "hlth",
+			"tagName": "HEALTY",
+			"font": "Arial",
+			"fontsize": "10px"
+		},
+		{
+			"CommandeButtonNumber":"8",
+			"tagid": "shvl",
+			"tagName": "SHOVEL",
+			"font": "Arial",
+			"fontsize": "8px"
+		},
+		{
+			"CommandeButtonNumber":"9",
+			"tagid": "csp",
+			"tagName": "SOLAR CSP",
+			"font": "Arial",
+			"fontsize": "8px"
+		},
+		{
+			"CommandeButtonNumber":"10",
+			"tagid": "herman",
+			"tagName": "HERMAN",
+			"font": "Arial",
+			"fontsize": "8px"
+		},
+		{
+			"CommandeButtonNumber":"11",
+			"tagid": "wnd",
+			"tagName": "WIND",
+			"font": "Arial",
+			"fontsize": "10px"
+		},
+		{
+			"CommandeButtonNumber":"12",
+			"tagid": "prog",
+			"tagName": "PROGMG",
+			"font": "Arial",
+			"fontsize": "8px"
+		},
+		{
+			"CommandeButtonNumber":"13",
+			"tagid": "mrk",
+			"tagName": "MARKTG",
+			"font": "Arial",
+			"fontsize": "7px"
+		},
+		{
+			"CommandeButtonNumber":"14",
+			"tagid": "ip",
+			"tagName": "IP",
+			"font": "Arial",
+			"fontsize": "10px"
+		},
+		{
+			"CommandeButtonNumber":"15",
+			"tagid": "law",
+			"tagName": "LAW",
+			"font": "Arial",
+			"fontsize": "10px"
+		},
+		{
+			"CommandeButtonNumber":"16",
+			"tagid": "time",
+			"tagName": "TIMLY",
+			"font": "Arial",
+			"fontsize": "10px"
+		},
+		{
+			"CommandeButtonNumber":"17",
+			"tagid": "sec",
+			"tagName": "SECURITY",
+			"font": "Arial",
+			"fontsize": "8px"
+		},
+		{
+			"CommandeButtonNumber":"18",
+			"tagid": "cnt",
+			"tagName": "CONTACT",
+			"font": "Arial",
+			"fontsize": "8px"
+		},
+		{
+			"CommandeButtonNumber":"19",
+			"tagid": "ctpersnl",
+			"tagName": "CT",
+			"font": "Arial",
+			"fontsize": "8px"
+		},
+		{
+			"CommandeButtonNumber":"20",
+			"tagid": "hap",
+			"tagName": "HAPPY",
+			"font": "Arial",
+			"fontsize": "10px"
+		},
+		{
+			"CommandeButtonNumber":"21",
+			"tagid": "todo",
+			"tagName": "TODO",
+			"font": "Arial",
+			"fontsize": "10px"
+		},
+		{
+			"CommandeButtonNumber":"22",
+			"tagid": "buy",
+			"tagName": "BUY",
+			"font": "Arial",
+			"fontsize": "10px"
+		},
+		{
+			"CommandeButtonNumber":"23",
+			"tagid": "biz",
+			"tagName": "BIZ",
+			"font": "Arial",
+			"fontsize": "8px"
+		},
+		{
+			"CommandeButtonNumber":"24",
+			"tagid": "ux",
+			"tagName": "UX",
+			"font": "Arial",
+			"fontsize": "10px"
+		},
+		{
+			"CommandeButtonNumber":"25",
+			"tagid": "tenants",
+			"tagName": "TENANTS",
+			"font": "Arial",
+			"fontsize": "8px"
+		}
+	],
+	"objects": [
+		{
+			"ID": "0",
+			"Content": "Crowd funding projects",
+			"CreationDate": "Saturday, November 26, 2016 18:00:00",
+			"LastReviewedDate": "Tuesday, March 15, 2017 18:00:00",
+			"NextReviewDate": "Friday, May 10, 2017 18:00:00",
+			"ContentAuthor":"CY",
+			"ContentOwner":"TW",
+			"Tags": "Invest, Bus",
+			"ForUseLater1":"",
+			"ForUseLater2":""
+		},
+		{
+			"ID": "1",
+			"Content": "Meeting with D",
+			"CreationDate": "Saturday, November 26, 2016 18:00:00",
+			"LastReviewedDate": "Tuesday, March 15, 2017 18:00:00",
+			"NextReviewDate": "Friday, May 10, 2017 18:00:00",
+			"ContentAuthor":"CY",
+			"ContentOwner":"CT",
+			"Tags": "Meeting, Cas",
+			"ForUseLater1":"",
+			"ForUseLater2":""
+		},
+		{
+			"ID": "2",
+			"Content": "Conference at 14th Floor at 8",
+			"CreationDate": "Saturday, November 26, 2016 18:00:00",
+			"LastReviewedDate": "Tuesday, March 15, 2017 18:00:00",
+			"NextReviewDate": "Friday, May 10, 2017 18:00:00",
+			"ContentAuthor":"CY",
+			"ContentOwner":"TW",
+			"Tags": "Conf, Bus",
+			"ForUseLater1":"",
+			"ForUseLater2":""
+		},
+		{
+			"ID": "3",
+			"Content": "Sign the Contract about Cooperation",
+			"CreationDate": "Saturday, November 26, 2016 18:00:00",
+			"LastReviewedDate": "Tuesday, March 15, 2017 18:00:00",
+			"NextReviewDate": "Friday, May 10, 2017 18:00:00",
+			"ContentAuthor":"CY",
+			"ContentOwner":"TW",
+			"Tags": "Cont, Bus",
+			"ForUseLater1":"",
+			"ForUseLater2":""
+		},
+		{
+			"ID": "4",
+			"Content": "Project CardForever Wrap-up",
+			"CreationDate": "Saturday, November 26, 2016 18:00:00",
+			"LastReviewedDate": "Tuesday, March 15, 2017 18:00:00",
+			"NextReviewDate": "Friday, May 10, 2017 18:00:00",
+			"ContentAuthor":"CY",
+			"ContentOwner":"CY",
+			"Tags": "Prog, Dev",
+			"ForUseLater1":"",
+			"ForUseLater2":""
+		},
+		{
+			"ID": "5",
+			"Content": "Extent the office rental",
+			"CreationDate": "Saturday, November 26, 2016 18:00:00",
+			"LastReviewedDate": "Tuesday, March 15, 2017 18:00:00",
+			"NextReviewDate": "Friday, May 10, 2017 18:00:00",
+			"ContentAuthor":"CY",
+			"ContentOwner":"TW",
+			"Tags": "Fin, Bus",
+			"ForUseLater1":"",
+			"ForUseLater2":""
+		},
+		{
+			"ID": "6",
+			"Content": "Financial Management",
+			"CreationDate": "Saturday, November 26, 2016 18:00:00",
+			"LastReviewedDate": "Tuesday, March 15, 2017 18:00:00",
+			"NextReviewDate": "Friday, May 10, 2017 18:00:00",
+			"ContentAuthor":"CY",
+			"ContentOwner":"CT",
+			"Tags": "Fin",
+			"ForUseLater1":"",
+			"ForUseLater2":""
+		},
+		{
+			"ID": "7",
+			"Content": "Taxes",
+			"CreationDate": "Saturday, November 26, 2016 18:00:00",
+			"LastReviewedDate": "Tuesday, March 15, 2017 18:00:00",
+			"NextReviewDate": "Friday, May 10, 2017 18:00:00",
+			"ContentAuthor":"CY",
+			"ContentOwner":"CT",
+			"Tags": "Fin, Gov",
+			"ForUseLater1":"",
+			"ForUseLater2":""
+		},
+		{
+			"ID": "8",
+			"Content": "Interview with media",
+			"CreationDate": "Saturday, November 26, 2016 18:00:00",
+			"LastReviewedDate": "Tuesday, March 15, 2017 18:00:00",
+			"NextReviewDate": "Friday, May 10, 2017 18:00:00",
+			"ContentAuthor":"CY",
+			"ContentOwner":"JM",
+			"Tags": "Interv",
+			"ForUseLater1":"",
+			"ForUseLater2":""
+		},
+		{
+			"ID": "9",
+			"Content": "Presentation on Forum",
+			"CreationDate": "Saturday, November 26, 2016 18:00:00",
+			"LastReviewedDate": "Tuesday, March 15, 2017 18:00:00",
+			"NextReviewDate": "Friday, May 10, 2017 18:00:00",
+			"ContentAuthor":"CY",
+			"ContentOwner":"JM",
+			"Tags": "Conf",
+			"ForUseLater1":"",
+			"ForUseLater2":""
+		},
+		{
+			"ID": "10",
+			"Content": "NU Career Fair",
+			"CreationDate": "Saturday, November 26, 2016 18:00:00",
+			"LastReviewedDate": "Tuesday, March 15, 2017 18:00:00",
+			"NextReviewDate": "Friday, May 10, 2017 18:00:00",
+			"ContentAuthor":"CY",
+			"ContentOwner":"JM",
+			"Tags": "HR",
+			"ForUseLater1":"",
+			"ForUseLater2":""
+		},
+		{
+			"ID": "11",
+			"Content": "Check and reply Email",
+			"CreationDate": "Saturday, November 26, 2016 18:00:00",
+			"LastReviewedDate": "Tuesday, March 15, 2017 18:00:00",
+			"NextReviewDate": "Friday, May 10, 2017 18:00:00",
+			"ContentAuthor":"CY",
+			"ContentOwner":"CT",
+			"Tags": "Cyb, Bus",
+			"ForUseLater1":"",
+			"ForUseLater2":""
+		},
+		{
+			"ID": "12",
+			"Content": "CardForever Marketing",
+			"CreationDate": "Saturday, November 26, 2016 18:00:00",
+			"LastReviewedDate": "Tuesday, March 15, 2017 18:00:00",
+			"NextReviewDate": "Friday, May 10, 2017 18:00:00",
+			"ContentAuthor":"CY",
+			"ContentOwner":"CT",
+			"Tags": "Prog, Bus",
+			"ForUseLater1":"",
+			"ForUseLater2":""
+		},
+		{
+			"ID": "13",
+			"Content": "Lunch with MJ",
+			"CreationDate": "Saturday, November 26, 2016 18:00:00",
+			"LastReviewedDate": "Tuesday, March 15, 2017 18:00:00",
+			"NextReviewDate": "Friday, May 10, 2017 18:00:00",
+			"ContentAuthor":"CY",
+			"ContentOwner":"CY",
+			"Tags": "Cas",
+			"ForUseLater1":"",
+			"ForUseLater2":""
+		},
+		{
+			"ID": "14",
+			"Content": "Consulting about future plan with MT",
+			"CreationDate": "Saturday, November 26, 2016 18:00:00",
+			"LastReviewedDate": "Tuesday, March 15, 2017 18:00:00",
+			"NextReviewDate": "Friday, May 10, 2017 18:00:00",
+			"ContentAuthor":"CY",
+			"ContentOwner":"CT",
+			"Tags": "Cons, Bus",
+			"ForUseLater1":"",
+			"ForUseLater2":""
+		},
+		{
+			"ID": "15",
+			"Content": "New Employees Training Program",
+			"CreationDate": "Saturday, November 26, 2016 18:00:00",
+			"LastReviewedDate": "Tuesday, March 15, 2017 18:00:00",
+			"NextReviewDate": "Friday, May 10, 2017 18:00:00",
+			"ContentAuthor":"CY",
+			"ContentOwner":"JM",
+			"Tags": "HR, Training",
+			"ForUseLater1":"",
+			"ForUseLater2":""
+		},
+		{
+			"ID": "16",
+			"Content": "Weekly report on meeting",
+			"CreationDate": "Saturday, November 26, 2016 18:00:00",
+			"LastReviewedDate": "Tuesday, March 15, 2017 18:00:00",
+			"NextReviewDate": "Friday, May 10, 2017 18:00:00",
+			"ContentAuthor":"CY",
+			"ContentOwner":"JM",
+			"Tags": "meeting, report",
+			"ForUseLater1":"",
+			"ForUseLater2":""
+		},
+		{
+			"ID": "17",
+			"Content": "Meeting with T.Black",
+			"CreationDate": "Saturday, November 26, 2016 18:00:00",
+			"LastReviewedDate": "Tuesday, March 15, 2017 18:00:00",
+			"NextReviewDate": "Friday, May 10, 2017 18:00:00",
+			"ContentAuthor":"CY",
+			"ContentOwner":"VZ",
+			"Tags": "meeting",
+			"ForUseLater1":"",
+			"ForUseLater2":""
+		},
+		{
+			"ID": "18",
+			"Content": "Project Follow-up",
+			"CreationDate": "Saturday, November 26, 2016 18:00:00",
+			"LastReviewedDate": "Tuesday, March 15, 2017 18:00:00",
+			"NextReviewDate": "Friday, May 10, 2017 18:00:00",
+			"ContentAuthor":"CY",
+			"ContentOwner":"CT",
+			"Tags": "Prog",
+			"ForUseLater1":"",
+			"ForUseLater2":""
+		},
+		{
+			"ID": "19",
+			"Content": "Conference from May 5th to May 8th at LA",
+			"CreationDate": "Saturday, November 26, 2016 18:00:00",
+			"LastReviewedDate": "Tuesday, March 15, 2017 18:00:00",
+			"NextReviewDate": "Friday, May 10, 2017 18:00:00",
+			"ContentAuthor":"CY",
+			"ContentOwner":"CT",
+			"Tags": "Conf, flight",
+			"ForUseLater1":"",
+			"ForUseLater2":""
+		},
+		{
+			"ID": "20",
+			"Content": "Clean up Office",
+			"CreationDate": "Friday, January 20, 2017 15:04:26",
+			"LastReviewedDate": "Tuesday, March 14, 2017 10:49:09",
+			"NextReviewDate": "Monday, April 4, 2017 14:00:00",
+			"ContentAuthor":"CY",
+			"ContentOwner":"VZ",
+			"Tags": "maint",
+			"ForUseLater1":"",
+			"ForUseLater2":""
+		}
+	]
+}

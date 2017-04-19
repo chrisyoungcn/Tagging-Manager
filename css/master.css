@@ -1,0 +1,62 @@
+/* CSS Document */
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+tbody > tr{
+	cursor: pointer;
+}
+
+p{
+	
+}
+
+.container{
+	top: 10px;
+	width: 90%;
+	margin: 0 auto;
+}
+
+.tag-container{
+	top: 0;
+	height: 300px;
+	padding: 5px;
+	margin-bottom: 30px;
+	display: block;
+	background-color: #00FFFE;
+}
+
+.selected{
+	background-color: #F1FF00;
+}
+
+.tags{
+	border: 1px solid black;
+    border-collapse: collapse;
+	width: 50px;
+	height: 30px;
+	text-align: center;
+	display: table-cell;
+    vertical-align: middle;
+	cursor: pointer;
+	-webkit-user-select: none; /* Chrome/Safari */        
+	-moz-user-select: none; /* Firefox */
+	-ms-user-select: none; /* IE10+ */
+
+	/* Rules below not implemented in browsers yet */
+	-o-user-select: none;
+	user-select: none;
+}
+
+#selectedTags{
+	margin-bottom: 30px;
+	border: 1px solid black;
+    border-collapse: collapse;
+	height: 20px;
+	padding-top: 4px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 16px;
+}
+
+
