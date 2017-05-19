@@ -2,6 +2,7 @@ var taglist = [];
 var objlist = [];
 var tagsArr = [];
 
+//I used AJAX to retrieve data from JSON file, you may want to edit this part to retrieve data from back end database
 $.getJSON('myjson.json', function (data) {
 	"use strict";
 	$.each(data, function (key, val) {
@@ -34,7 +35,6 @@ $.getJSON('myjson.json', function (data) {
 $(document).ready(function () {
 	'use strict';
 	$('#theTable tbody').on('click', 'tr', function () {
-		console.log($(this));
 		$(this).toggleClass('selected');
 	});
 	$('.tags').click(function(){

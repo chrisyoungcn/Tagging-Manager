@@ -12,6 +12,10 @@ p{
 	
 }
 
+textarea {
+    resize: none;
+}
+
 .container{
 	top: 10px;
 	width: 90%;
@@ -20,11 +24,24 @@ p{
 
 .tag-container{
 	top: 0;
+	width: 68%;
 	height: 300px;
 	padding: 5px;
 	margin-bottom: 30px;
-	display: block;
+	display: inline-block;
 	background-color: #00FFFE;
+}
+
+.contain-adder{
+	top: 0;
+	width: 30%;
+	height: 300px;
+	padding: 5px 5px 5px 0;
+	margin-bottom: 30px;
+	display: inline-block;
+	background-color: #00FFFE;
+	float: right;
+	text-align: center;
 }
 
 .selected{
@@ -37,7 +54,7 @@ p{
 	width: 50px;
 	height: 30px;
 	text-align: center;
-	display: table-cell;
+	display: inline-block;
     vertical-align: middle;
 	cursor: pointer;
 	-webkit-user-select: none; /* Chrome/Safari */        
@@ -59,4 +76,13 @@ p{
 	font-size: 16px;
 }
 
+#addcolume{
+	width: 80%;
+}
+
+#cinput{
+	width: 80%;
+	height: 250px;
+	margin-bottom: 10px;
+}
 
