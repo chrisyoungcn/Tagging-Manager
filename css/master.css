@@ -6,6 +6,7 @@ table, th, td {
 
 tbody > tr{
 	cursor: pointer;
+	height: 30px;
 }
 
 p{
@@ -64,6 +65,37 @@ textarea {
 	/* Rules below not implemented in browsers yet */
 	-o-user-select: none;
 	user-select: none;
+}
+
+.scrollbox {
+	border: none;
+	padding: 5px;
+	height: 500px;
+	overflow: scroll;
+}
+
+/* Scrollbar styles */
+.scrollbox::-webkit-scrollbar {
+	width: 12px;
+	height: 12px;
+}
+
+.scrollbox::-webkit-scrollbar-track {
+	border: 1px solid yellowgreen;
+	border-radius: 10px;
+}
+
+.scrollbox::-webkit-scrollbar-thumb {
+	background: yellowgreen;  
+	border-radius: 10px;
+}
+
+.scrollbox::-webkit-scrollbar-thumb:hover {
+	background: #88ba1c;  
+}
+
+#theTable{
+	width: 2000px;
 }
 
 #selectedTags{

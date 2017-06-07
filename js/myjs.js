@@ -24,7 +24,6 @@ $.getJSON('myjson.json', function (data) {
 			'<p id=' + taglist[i].tagid + ' class="tags" style="font-size:' + taglist[i].fontsize + '">' + taglist[i].tagName + '</p>'
 		);
 	}
-	console.log(objlist);
 	for (var j = 0; j < objlist.length; j++) {
 		$('tbody').append(
 			'<tr><td>' + objlist[j].ID + '</td><td>' + objlist[j].Content + '</td><td>' + objlist[j].CreationDate + '</td><td>' + objlist[j].LastReviewedDate + '</td><td>' + objlist[j].NextReviewDate + '</td><td>' + objlist[j].ContentAuthor + '</td><td>' + objlist[j].ContentOwner + '</td><td>' + objlist[j].Tags + '</td><td>' + objlist[j].ForUseLater1 + '</td><td>' + objlist[j].ForUseLater2 + '</td></tr>'

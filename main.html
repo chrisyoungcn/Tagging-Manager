@@ -11,47 +11,49 @@
 <body>
 <div class="container" id="outer">
   <div class="top-container">
-  	<div class="tag-container"> </div>
-  	<div class="contain-adder"> 
-  		<form action="{% url 'ContentTags:content' %}" method="post">
-			<textarea id="cinput" name="Content"></textarea>
-  		 <input id="addcolume" type="submit" value="Tagged">
-		</form>
-	</div>
+    <div class="tag-container"> </div>
+    <div class="contain-adder">
+      <form action="{% url 'ContentTags:content' %}" method="post">
+        <textarea id="cinput" name="Content"></textarea>
+        <input id="addcolume" type="submit" value="Tagged">
+      </form>
+    </div>
   </div>
   <p id="selectedTags">Selected Tags: </p>
-  <table id="theTable" style="width:100%">
-    <thead>
-      <tr>
-        <th>ID</th>
-        <th>Content</th>
-        <th>Creation Date</th>
-        <th>Last Reviewed Date</th>
-        <th>Next Review Date</th>
-        <th>Content Author</th>
-        <th>Content Owner</th>
-        <th>Tags</th>
-        <th>For Use Later 1</th>
-        <th>For Use Later 2</th>
-      </tr>
-    </thead>
-    <tfoot>
-      <tr>
-        <th>ID</th>
-        <th>Content</th>
-        <th>Creation Date</th>
-        <th>Last Reviewed Date</th>
-        <th>Next Review Date</th>
-        <th>Content Author</th>
-        <th>Content Owner</th>
-        <th>Tags</th>
-        <th>For Use Later 1</th>
-        <th>For Use Later 2</th>
-      </tr>
-    </tfoot>
-    <tbody>
-    </tbody>
-  </table>
+  <div class="scrollbox" id="tablebox">
+    <table id="theTable">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Content</th>
+          <th>Creation Date</th>
+          <th>Last Reviewed Date</th>
+          <th>Next Review Date</th>
+          <th>Content Author</th>
+          <th>Content Owner</th>
+          <th>Tags</th>
+          <th>For Use Later 1</th>
+          <th>For Use Later 2</th>
+        </tr>
+      </thead>
+      <tfoot>
+        <tr>
+          <th>ID</th>
+          <th>Content</th>
+          <th>Creation Date</th>
+          <th>Last Reviewed Date</th>
+          <th>Next Review Date</th>
+          <th>Content Author</th>
+          <th>Content Owner</th>
+          <th>Tags</th>
+          <th>For Use Later 1</th>
+          <th>For Use Later 2</th>
+        </tr>
+      </tfoot>
+      <tbody>
+      </tbody>
+    </table>
+  </div>
 </div>
 </body>
 </html>
