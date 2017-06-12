@@ -45,7 +45,11 @@ textarea {
 	text-align: center;
 }
 
-.selected{
+.selectedTags{
+	background-color: #0066ff;
+}
+
+.selectedItems{
 	background-color: #F1FF00;
 }
 

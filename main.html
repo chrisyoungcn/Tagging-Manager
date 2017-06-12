@@ -13,10 +13,8 @@
   <div class="top-container">
     <div class="tag-container"> </div>
     <div class="contain-adder">
-      <form action="{% url 'ContentTags:content' %}" method="post">
-        <textarea id="cinput" name="Content"></textarea>
-        <input id="addcolume" type="submit" value="Tagged">
-      </form>
+      <textarea id="cinput" name="Content"></textarea>
+		<button id="addcolume">Tagged</button>
     </div>
   </div>
   <p id="selectedTags">Selected Tags: </p>
